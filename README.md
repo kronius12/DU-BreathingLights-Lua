@@ -14,7 +14,7 @@ For PRNG explanation see [Wikipedia](https://en.wikipedia.org/wiki/Linear_congru
 
 ## Usage
 1. Link a manual switch or detection zone to a relay \[to more relays] to programming boards to lights.
-1. Open the du-lightsheartbeat.conf.txt file in a text editor, copy the contents.
+1. Open DU-BreathingLights.conf.txt in a text editor, copy the contents.
 1. On each program board right-click > Advanced > Paste Lua configuration. *Warning: this will replace any programs already on the board.*
 1. Turn on the switch or enter the detector zone, and the lights will pulse in sequence.
 
